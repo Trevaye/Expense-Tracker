@@ -1,7 +1,7 @@
 # Expense-Tracker
 An expense tracker program built using Python and SQLite
 
-Overview
+**Overview**
 As a software engineer, my goal with this project is to deepen my understanding of how to integrate applications with relational databases and to refine my skills in building real-world software. This program is an Expense Tracker designed to help individuals manage their finances by storing and retrieving expenses through a SQL Relational Database.
 
 The application allows users to:
