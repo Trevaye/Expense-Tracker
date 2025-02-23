@@ -14,7 +14,7 @@ Filter expenses by category and date
 Summarize the total amount spent in each category
 It uses SQLite as the relational database, allowing the program to store and query data efficiently. The database interacts with the program through SQL commands that allow the user to insert, modify, retrieve, and delete records.
 
-Software Demo Video .......
+https://youtu.be/G1bKnxJHffc
 
 Relational Database
 This application uses SQLite, a lightweight relational database, which is built directly into Python using the sqlite3 library. SQLite is chosen for its simplicity and portability, making it ideal for this project.
